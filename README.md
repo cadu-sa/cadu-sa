@@ -27,3 +27,6 @@ Sou uma pessoa introvertida, proativa, resiliente e assertiva, com uma mente abe
 ### Meu Site:
 http://cadu-sa.github.io/
 
+<img src="https://github.com/user-attachments/assets/1a017edd-c590-4246-a213-c796f7130842" width="400" height="400" alt="Octocat"/> 
+
+
