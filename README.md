@@ -31,5 +31,7 @@ http://cadu-sa.github.io/
 
 <img src="https://github.com/user-attachments/assets/1a017edd-c590-4246-a213-c796f7130842" width="400" height="400" alt="Octocat"/>
 
+![Snake animation](https://github.com/cadu-sa/cadu-sa/blob/output/github-contribution-grid-snake.svg)
+
 
 
